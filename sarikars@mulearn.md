@@ -3,7 +3,7 @@
 
 ### About Me
 
-> I am Sarika R S, a 3rd-year Computer Science and Engineering student specializing in Cybersecurity at Trinity College of Engineering, Trivandrum. I am passionate about ethical hacking, network security, and cybersecurity research. I enjoy learning about cyber threats, secure systems, and modern security tools. Through μFIFA, I aim to improve my technical skills, contribute to collaborative projects, and build a strong public portfolio that showcases my journey in cybersecurity. My goal is to continuously learn, solve real-world problems, and prepare for a successful career in information security.
+> I am Sarika R S, a 3rd-year Computer Science and Engineering student specializing in Cybersecurity at Trinity College of Engineering, Trivandrum. I am passionate about ethical hacking, network security,cloud computing and cybersecurity research. I enjoy learning about cyber threats, secure systems, and modern security tools. Through μFIFA, I aim to improve my technical skills, contribute to collaborative projects, and build a strong public portfolio that showcases my journey in cybersecurity. My goal is to continuously learn, solve real-world problems, and prepare for a successful career in information security.
 
 ---
 
